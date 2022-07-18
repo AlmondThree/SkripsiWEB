@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/projec17/public_html/
+    - export DEPLOYPATH=/home/projec17/web/
     - /bin/cp -R web $DEPLOYPATH
