@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     'api.localhost',
+    'http://projectskripsidonny.my.id/',
 ]
 
 REST_FRAMEWORK = {
@@ -147,7 +148,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/home/projec17/web/mysite/mysite/public'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'views/static')]
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
