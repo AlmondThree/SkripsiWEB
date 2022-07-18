@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "prettier.enable": true,
+    "json.format.enable": true
+}

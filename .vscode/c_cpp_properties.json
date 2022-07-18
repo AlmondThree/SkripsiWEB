@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries",
+                "E:/Users/USER/Documents/Arduino/libraries/NTPClient",
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries\\FirebaseJson",
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries\\Arduino_JSON\\src",
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries\\Firebase_ESP8266_Client\\src",
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries\\Firebase_Arduino_Client_Library_for_ESP8266_and_ESP32\\src\\addons",
+                "E:\\Users\\USER\\Documents\\Arduino\\libraries\\FirebaseJson\\src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": ""
+        }
+    ],
+    "version": 4
+}
